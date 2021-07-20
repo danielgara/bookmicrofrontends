@@ -1,0 +1,4 @@
+chapter05/node_modules/*
+chapter05/packages/app/node_modules/*
+chapter05/packages/mife-1/node_modules/*
+chapter05/packages/mife-2/node_modules/*
