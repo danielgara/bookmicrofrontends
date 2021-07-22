@@ -9,3 +9,11 @@ chapter05-ssr/packages/mife-2/node_modules/*
 chapter06/mf-1/node_modules/*
 chapter06/mf-2/node_modules/*
 chapter06/mf-gw/node_modules/*
+chapter07/red/node_modules/*
+chapter07/blue/node_modules/*
+chapter07/green/node_modules/*
+chapter07/gateway/node_modules/*
+chapter08/red/node_modules/*
+chapter08/blue/node_modules/*
+chapter08/green/node_modules/*
+chapter08/edge/node_modules/*
